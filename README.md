@@ -2,7 +2,7 @@
 
 This project applies an altered transformer architecture to the task of time-series forecasting. Specifically, the model was trained to forecast future stock prices of the S&P500 and DOW stock indexes. The program also includes the ability for different technical analysis techniques to be applied to the data, in order to produce different representations of the data. Namely, the two techniques implemented are moving averages, and chart pattern recognition.
 
-A full description of the project can be found in the file [Transformers Time Series in Disguise](Transformers Time Series in Disguise.pdf), which is the research paper submitted alongside this codebase.
+A full description of the project can be found in the file [Transformers Time Series in Disguise](Transformers_Time_Series_in_Disguise.pdf), which is the research paper submitted alongside this codebase.
 
 This project is in partial fulfilment for the degree of Master of Science in Advanced Computer Science, awarded by the University of Birmingham.
 
